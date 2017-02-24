@@ -1,0 +1,31 @@
+(icellphone
+CellPhone
+p0
+(dp1
+S'_CellPhone__manufact'
+p2
+S'ACME Electronics'
+p3
+sS'_CellPhone__retail_price'
+p4
+F199.99
+sS'_CellPhone__model'
+p5
+S'M1000'
+p6
+sb.(icellphone
+CellPhone
+p0
+(dp1
+S'_CellPhone__manufact'
+p2
+S'Sonic Systems'
+p3
+sS'_CellPhone__retail_price'
+p4
+F299.99
+sS'_CellPhone__model'
+p5
+S'x99'
+p6
+sb.
